@@ -1,8 +1,8 @@
-Для коректноъ роботи додатка необхідно встановити такі бібліотеки:
+Для правильної роботи необхідно встановити такі бібліотеки:
 
 Django
-jango-crispy-form
 django-summernote
+jango-crispy-form
 pycodestyle
-pytz
 toml
+pytz
